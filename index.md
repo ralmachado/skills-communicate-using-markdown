@@ -1,5 +1,13 @@
 # This is a sample index markdown file
 
+## My shopping list
+- [ ] Greek yogurt
+- [x] Whey protein
+- [ ] Peanut butter
+- [ ] Bananas
+- [x] Cheese
+- [x] Rice
+
 ## I'm multilingual
 
 ```bash
